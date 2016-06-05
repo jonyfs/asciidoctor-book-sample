@@ -1,0 +1,15 @@
+= AsciiDoctor Book Sample
+
+:toc:
+:toc-title: Index
+:toclevels: 5
+:toc-placement: preamble
+:source-highlighter: highlightjs
+:doctype: book
+:docinfo:
+
+toc::[]
+
+include::introduction.adoc[]
+
+include::chapters.adoc[]
